@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jshubh19
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @jshubh19 or Can Call me Shubh
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ... AWS
+- 💞️ I’m looking to collaborate on ... Open Source Content Or Resources
+- 📫 How to reach me ... write a mail to : Shubhj4019@gmail.com or jshubh19@hotmail.com
 
 <!---
 jshubh19/jshubh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
